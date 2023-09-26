@@ -1,0 +1,1 @@
+Tried to do a DI on decorators without reflect-metadata package
